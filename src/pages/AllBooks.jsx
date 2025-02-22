@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import Navbar from "../components/Navbar";
-import BookCard from "../components/bookCard";
+import BookCard from "../components/BookCard";
 import { MainContext } from "../App";
 
 
