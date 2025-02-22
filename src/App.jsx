@@ -1,7 +1,7 @@
 
 import SignIn from "./pages/SignIn"
 import Navbar from "./components/Navbar"
-import SiteRoutes from "./siteRoutes"
+import SiteRoutes from "./SiteRoutes"
 import "../src/styles/App.css"
 import "bootstrap/dist/css/bootstrap.min.css"
 import "firebase/firestore";
